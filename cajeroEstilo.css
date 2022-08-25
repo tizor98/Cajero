@@ -1,0 +1,36 @@
+body {
+    background-color: #168db1;
+    font-family: "Trebuchet MS";
+}
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    font-size: 3.5em;
+    color: #010311;
+}
+p {
+    text-align: center;
+    font-size: 3em;
+}
+.general {
+    text-align: center;
+    background-position: center;
+    background-color: rgb(14, 5, 117);
+    color: white;
+    font-size: 3em;
+}
+.semititulo {
+    text-align: center;
+    background-position: center;
+    background-color: rgb(56, 148, 148);
+    color: white;
+    font-size: 2.5em;
+}
+.texto {
+    text-align: center;
+    background-position: center;
+    background-color: rgb(56, 148, 148);
+    color: white;
+    font-size: 2em;
+}
