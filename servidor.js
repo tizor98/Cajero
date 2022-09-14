@@ -1,5 +1,4 @@
 const express = require("express");
-const { dirname } = require("path");
 const aplicacion = express();
 const path = require("path");
 
